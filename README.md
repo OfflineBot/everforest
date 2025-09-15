@@ -11,7 +11,6 @@ This is my everforest rice for hyprland.
 
 ## Screenshots:
 ![Screenshot1](./Pictures/screenshots/screenshot1.png)
-![Screenshot2](./Pictures/screenshots/screenshot2.png)
 ![Screenshot3](./Pictures/screenshots/screenshot3.png)
 
 
